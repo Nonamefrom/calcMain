@@ -15,4 +15,3 @@ def calc_multi(num1,num2):
     result=num1*num2
     print(round(result,2))
 calc_multi(2,5.124)
-git init
